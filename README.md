@@ -16,7 +16,7 @@ We perform an empirical evaluation of several methods of low-rank approximation 
 **Keywords**: natural language processing, pointwise mutual information, matrix factorization, low-rank approximation, word vectors
 
 
-- The first file **“Shifted Positive PMI”** is used to obtain the PMI (Pointwise Mutual Information) Matrix. As input we used Enwik9 dataset  (http://mattmahoney.net/dc/Enwik9.zip), and as output we get two files:\ 
+- The first file **PMI** is used to obtain the PMI (Pointwise Mutual Information) Matrix. As input we used Enwik9 dataset  (http://mattmahoney.net/dc/Enwik9.zip), and as output we get two files:\ 
 	SPPMI matrix in R^(V×V), where V is a vocabulary size. (**your_pmi_name.npz**)\
 	Vector in R^(1×V) , which contain the words as strings (**your_column_name**)
 
