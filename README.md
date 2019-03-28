@@ -3,7 +3,8 @@
 A Python implementation of the paper:
 "Low-Rank Approximation of Matrices for PMI-based Word Embeddings”
 Alena Sorokina, Aidana Karipbayeva, Zhenisbek Assylbekov.
-International Conference on Computational Linguistics and Intelligent Text Processing, 2019. Lecture Notes in Computer Science (LNCS), Springer 2019. 
+International Conference on Computational Linguistics and Intelligent Text Processing, 2019. 
+Piblished in Lecture Notes in Computer Science (LNCS), Springer 2019. 
 
 # Contacts
 Authors: Aidana Karipbayeva, Alena Sorokina
