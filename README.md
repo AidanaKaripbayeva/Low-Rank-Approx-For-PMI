@@ -24,7 +24,7 @@ We perform an empirical evaluation of several methods of low-rank approximation 
 	for **SVD** - <a href="https://www.codecogs.com/eqnedit.php?latex=U_{d}\Sigma_{d}^{1/2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?U_{d}\Sigma_{d}^{1/2}" title="U_{d}\Sigma_{d}^{1/2}" /></a> \
 	for **NMF** - <a href="https://www.codecogs.com/eqnedit.php?latex=W_{d}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?W_{d}" title="W_{d}" /></a> \
 	for **QR** – <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;(&space;RP^{T}&space;\right&space;)_{d}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;RP^{T}&space;\right&space;)_{d}" title="\left ( RP^{T} \right )_{d}" /></a> \
-	It should be noted that we are using QR factorization with pivoting and the maximum shape of the PMI matrix that could be factorized will be around 50 000 x 50 000. If more, it can give a memory error.\
+	It should be noted that we are using QR factorization with pivoting and the maximum shape of the PMI matrix that could be factorized will be around 50 000 x 50 000. If more, it can give a memory error.
 
 
 - Obtained word embeddings (for each method) should be merged with the **your_column_name** file in the terminal. The instructions about this procedure are included in the each file for matrix factorization (**SVD, QR, NMF**).
