@@ -16,7 +16,8 @@ We perform an empirical evaluation of several methods of low-rank approximation 
 **Keywords**: natural language processing, pointwise mutual information, matrix factorization, low-rank approximation, word vectors
 
 
-- The first file **PMI** is used to obtain the PMI (Pointwise Mutual Information) Matrix. As input we used text8 dataset  (http://mattmahoney.net/dc/text8.zip), and as output we get two files:\ 
+- The first file **PMI** is used to obtain the PMI (Pointwise Mutual Information) Matrix. As input we used text8 dataset  (http://mattmahoney.net/dc/text8.zip), and as output we get two files:
+
 	SPPMI matrix in <a href="https://www.codecogs.com/eqnedit.php?latex=R^{V\times&space;V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R^{V\times&space;V}" title="R^{V\times V}" /></a> , where V is a vocabulary size. (**your_pmi_name.npz**)\
 	Vector in <a href="https://www.codecogs.com/eqnedit.php?latex=R^{1\times&space;V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R^{1\times&space;V}" title="R^{1\times V}" /></a> , which contain the words as strings (**your_column_name**)
 
